@@ -1,0 +1,10 @@
+streamlit
+pillow
+requests
+python-dotenv
+opencv-python
+numpy
+streamlit-option-menu
+google-generativeai
+rembg
+onnxruntime
